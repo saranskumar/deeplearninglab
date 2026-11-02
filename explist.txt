@@ -1,0 +1,19 @@
+## Deep Learning Lab Experiments (1–15)
+
+| Experiment No. | Short Experiment Name |
+|---:|---|
+| 1 | Regression Models |
+| 2 | KNN Classification |
+| 3 | Naïve Bayes Classification |
+| 4 | Decision Tree (ID3) |
+| 5 | Hierarchical Clustering |
+| 6 | K-Means Clustering |
+| 7 | Feedforward Neural Network |
+| 8 | Artificial Neural Network Using Backpropagation |
+| 9 | Convolutional Neural Network (CNN) – MNIST |
+| 10 | VGGNet – Digit Classification |
+| 11 | CNN Using Custom Dataset |
+| 12 | Recurrent Neural Network (RNN) |
+| 13 | Sentiment Analysis Using LSTM and GRU |
+| 14 | Nifty 50 |
+| 15 | Encoder–Decoder Architecture |
